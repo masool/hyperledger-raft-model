@@ -27,7 +27,7 @@ MAX_RETRY=10
 
 CC_SRC_PATH="github.com/chaincode/veritable/javascript"
 if [ "$LANGUAGE" = "node" ]; then
-	CC_SRC_PATH="/opt/gopath/src/github.com/chaincode/veritable/javascript/"
+	CC_SRC_PATH="/opt/gopath/src/github.com/chaincode/veritable/javascript"
 fi
 
 #if [ "$LANGUAGE" = "java" ]; then
