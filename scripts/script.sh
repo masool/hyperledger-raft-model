@@ -7,7 +7,7 @@ echo "\___ \    | |     / _ \   | |_) |   | |  "
 echo " ___) |   | |    / ___ \  |  _ <    | |  "
 echo "|____/    |_|   /_/   \_\ |_| \_\   |_|  "
 echo
-echo "Build your first network (BYFN) end-to-end test"
+echo "Veritable Business Network end-to-end test"
 echo
 CHANNEL_NAME="$1"
 DELAY="$2"
@@ -103,7 +103,7 @@ if [ "${NO_CHAINCODE}" != "true" ]; then
 fi
 
 echo
-echo "========= All GOOD, BYFN execution completed =========== "
+echo "========= All GOOD, Veritable Business Network execution completed =========== "
 echo
 
 echo
